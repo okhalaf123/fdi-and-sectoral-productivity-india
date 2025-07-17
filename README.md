@@ -1,5 +1,18 @@
 # FDI and Productivity in India’s Manufacturing Sector (1990–2020)
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Objective](#-objective)
+- [Tools & Technology](#-tools--technology)
+- [Methodology](#-methodology)
+- [Key Visualizations](#-key-visualizations)
+- [Results Summary](#-results-summary)
+- [Recommendations](#-recommendations)
+- [Limitations](#-limitations)
+- [Repository Contents](#-repository-contents)
+- [Author](#-author)
+
 ## Project Overview
 
 This project investigates how foreign direct investment (FDI) affects total factor productivity (TFP) in India’s manufacturing sector from 1990 to 2020. The study was motivated by the formation of India’s National Manufacturing Competitiveness Council (NMCC) in 2004, a policy aimed at attracting FDI and boosting industrial performance. Using macroeconomic indicators and sector-level productivity data, the project examines whether FDI inflows are linked to productivity improvements and how these effects vary across industries.

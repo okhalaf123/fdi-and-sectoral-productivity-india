@@ -105,6 +105,6 @@ See [full report](link-to-full-report-if-uploaded) for tailored policy recommend
 ## Author
 
 Omar Khalaf  
-Undergraduate Research Project (2025)  
+Emerging Markets Project (2024)  
 Carnegie Mellon University in Qatar
 

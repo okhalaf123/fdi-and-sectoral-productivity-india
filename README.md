@@ -54,12 +54,13 @@ This project investigates how foreign direct investment (FDI) affects total fact
 
 ## Key Visualizations
 
-- Output growth decomposition by factor (Growth Accounting)
-- TFP and FDI trends over time
-- Distribution of FDI inflows (% GDP)
-- Sector-wise average TFP growth and variability
-- Sector-level correlation between FDI and TFP
-- Regression coefficients and confidence intervals by sector
+- **Growth Accounting Plot**: Showed that the share of productivity in output growth became more prominent after 2004, aligning with the formation of India’s National Manufacturing Competitiveness Council.
+- **Moving Average TFP vs FDI Trends**: Revealed parallel trends between national FDI inflows and productivity growth in manufacturing-related sectors. Also confirmed flat TFP in low-FDI sectors like Chemicals.
+- **FDI Distribution Plot**: Highlighted strong right-skew in FDI inflows, with multiple low-inflow years and fewer surges, affecting model sensitivity.
+- **Average TFP by Sector**: Transport, Manufacturing, and Chemical Products had the highest average TFP growth. Several service and natural resource sectors had flat or negative averages.
+- **Sector-FDI Correlation Plot**: Helped benchmark sectors by their observed correlation with national FDI. Some high-growth sectors showed weak correlation, underscoring importance of industry-specific policies.
+- **Regression Variable Correlation Matrix**: Checked for multicollinearity between regressors to evaluate regression assumptions.
+
 
 ---
 
@@ -75,11 +76,11 @@ This project investigates how foreign direct investment (FDI) affects total fact
 
 ## Recommendations
 
-[Download Full Report](https://github.com/okhalaf123/fdi-and-sectoral-productivity-india/raw/main/Full_Report.pdf) for tailored policy recommendations directed at:
-- Ministry of Commerce & Industry
-- Ministry of Finance
-- Ministry of Chemicals & Fertilizers
-- NITI Aayog
+- The **Ministry of Commerce and Industry** should enhance investment facilitation in upstream manufacturing segments like wood products and textiles, where FDI appears productivity-enhancing.
+- The **Ministry of Power** and **Ministry of Housing and Urban Affairs** should assess institutional or structural barriers that may cause negative productivity responses in construction and utility sectors receiving foreign investment.
+- The **Department for Promotion of Industry and Internal Trade (DPIIT)** should develop clearer productivity-oriented FDI criteria in non-tradable service sectors, such as hotels and restaurants.
+- The **Ministry of Chemicals and Fertilizers** should reassess its FDI policies and evaluate whether resource misallocation or rent-seeking might explain negative productivity impacts in the chemicals sector.
+- The **Ministry of Statistics and Programme Implementation** should consider expanding public reporting of sector-level FDI to enable finer-grained research and policy targeting.
 
 ---
 

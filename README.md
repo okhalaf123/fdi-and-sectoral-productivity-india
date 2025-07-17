@@ -75,7 +75,7 @@ This project investigates how foreign direct investment (FDI) affects total fact
 
 ## Recommendations
 
-[Download Full Report](./Full_Report.pdf) for tailored policy recommendations directed at:
+[Download Full Report](https://github.com/okhalaf123/fdi-and-sectoral-productivity-india/raw/main/Full_Report.pdf) for tailored policy recommendations directed at:
 - Ministry of Commerce & Industry
 - Ministry of Finance
 - Ministry of Chemicals & Fertilizers

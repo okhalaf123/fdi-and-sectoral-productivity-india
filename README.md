@@ -75,7 +75,7 @@ This project investigates how foreign direct investment (FDI) affects total fact
 
 ## Recommendations
 
-See [full report](Full_Report) for tailored policy recommendations directed at:
+See [full report](Full_Report.pdf) for tailored policy recommendations directed at:
 - Ministry of Commerce & Industry
 - Ministry of Finance
 - Ministry of Chemicals & Fertilizers

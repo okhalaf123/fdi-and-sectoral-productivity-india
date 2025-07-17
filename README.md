@@ -2,16 +2,16 @@
 
 ## 📑 Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Objective](#-objective)
-- [Tools & Technology](#-tools--technology)
-- [Methodology](#-methodology)
-- [Key Visualizations](#-key-visualizations)
-- [Results Summary](#-results-summary)
-- [Recommendations](#-recommendations)
-- [Limitations](#-limitations)
-- [Repository Contents](#-repository-contents)
-- [Author](#-author)
+- [Project Overview](#project-overview)
+- [Objective](#objective)
+- [Tools & Technology](#tools--technology)
+- [Methodology](#methodology)
+- [Key Visualizations](#key-visualizations)
+- [Results Summary](#results-summary)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [Repository Contents](#repository-contents)
+- [Author](#author)
 
 ## Project Overview
 
@@ -102,7 +102,7 @@ See [full report](link-to-full-report-if-uploaded) for tailored policy recommend
 
 ---
 
-## 📌 Author
+## Author
 
 Omar Khalaf  
 Undergraduate Research Project (2025)  

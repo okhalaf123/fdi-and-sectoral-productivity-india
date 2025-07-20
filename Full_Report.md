@@ -1,38 +1,28 @@
 # **Foreign Direct Investment and Sector-Level Productivity in India (1990-2020)**
 
-## Omar Khalaf
-
-## Spring 2024
-
-## [omar@khalaf.us](mailto:omar@khalaf.us)
-
-## [github.com/okhalaf123](http://github.com/okhalaf123)
-
-# 
-
 # **Table of Contents**
 
-[**Project Background	2**](#project-background)
+[**Project Background**](#project-background)
 
-[**Objective	2**](#objective)
+[**Objective**](#objective)
 
-[**Tools	2**](#tools)
+[**Tools**](#tools)
 
-[**Methodology	3**](#methodology)
+[**Methodology**](#methodology)
 
-[**Overview of Findings	5**](#overview-of-findings)
+[**Overview of Findings**](#overview-of-findings)
 
-[**Key Visualizations	5**](#key-visualizations)
+[**Key Visualizations**](#key-visualizations)
 
-[Core Visualizations (Motivating the Analysis)	5](#core-visualizations-\(motivating-the-analysis\))
+[**Core Visualizations (Motivating the Analysis)**](#core-visualizations-\(motivating-the-analysis\))
 
-[Exploratory Insights (Supporting Evidence)	9](#exploratory-insights-\(supporting-evidence\))
+[**Exploratory Insights (Supporting Evidence)**](#exploratory-insights-\(supporting-evidence\))
 
-[**Results	13**](#results)
+[**Results**](#results)
 
-[**Recommendations	15**](#recommendations)
+[**Recommendations**](#recommendations)
 
-[**Limitations	16**](#limitations)
+[**Limitations**](#limitations)
 
 # 
 

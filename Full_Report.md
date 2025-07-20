@@ -1,6 +1,6 @@
-# **Foreign Direct Investment and Sector-Level Productivity in India (1990-2020)**
+#**Foreign Direct Investment and Sector-Level Productivity in India (1990-2020)**
 
-# **Table of Contents**
+#**Table of Contents**
 
 [**Project Background**](#project-background)
 
@@ -26,11 +26,11 @@
 
 # 
 
-# **Project Background** {#project-background}
+#**Project Background**
 
 This project analyzes the impact of foreign direct investment (FDI) on total factor productivity (TFP) in India’s manufacturing sector from 1990 to 2020\. The study was motivated by the formation of India’s National Manufacturing Competitiveness Council (NMCC) in 2004, which aimed to attract FDI and improve industrial performance. By combining macroeconomic indicators with industry-level productivity data, the project evaluates whether FDI inflows were associated with improvements in TFP, a key economic growth factor.
 
-# **Objective** {#objective}
+#**Objective**
 
 To determine whether policies promoting FDI, particularly the formation of the NMCC in 2004, had a measurable effect on TFP growth in India’s manufacturing sector and to understand whether the FDI’s impact varies across sectors. This involves:
 
@@ -39,7 +39,7 @@ To determine whether policies promoting FDI, particularly the formation of the N
 * Comparing the manufacturing sector with other industries as a form of internal benchmarking  
 * Offering actionable insights for industrial and investment policy in emerging markets
 
-# **Tools** {#tools}
+#**Tools**
 
 The analysis was built entirely in R, using a mix of tidyverse and base functions. 
 
@@ -54,7 +54,7 @@ The analysis was built entirely in R, using a mix of tidyverse and base function
 
 The code is modular and split across scripts by function: importing, data cleaning, regression setup, exploratory analysis, modeling, plotting, and diagnostic testing.
 
-# **Methodology** {#methodology}
+#**Methodology**
 
 Three primary datasets were used:
 
@@ -95,13 +95,13 @@ Conducted using Ordinary Least Squares (OLS) method.  Based on Equation (8) from
 
 * Provides a benchmark for differential effects of FDI on TFP between manufacturing and a sector with lower FDI exposure (Bhardwaj, 2023).
 
-# **Overview of Findings** {#overview-of-findings}
+#**Overview of Findings** {#overview-of-findings}
 
 India’s FDI inflows increased significantly after the early 2000s, but productivity gains were uneven across sectors. While manufacturing as a whole did not show statistically significant improvements, industries like Textiles and Wood Products showed significant positive effects with FDI, indicating that the NMCC benefited adjacent sectors more directly. These patterns point to the importance of not only selecting target sectors for investment but also considering how industries are linked and positioned to absorb foreign capital effectively.
 
-# **Key Visualizations** {#key-visualizations}
+#**Key Visualizations** {#key-visualizations}
 
-## **Core Visualizations (Motivating the Analysis)** {#core-visualizations-(motivating-the-analysis)}
+##**Core Visualizations (Motivating the Analysis)**
 
 **1\. Growth Accounting in India (1990-2020)**
 
@@ -172,14 +172,14 @@ This matrix shows pairwise Pearson correlation coefficients between the independ
 * **FDI inflows (% of GDP) is weakly correlated with all other variables (all ρ \<= 0.24), supporting its use as a distinct predictor.**  
 * Government spending, CPI and crop production growth have weak or no correlation with other variables.
 
-# **Results** {#results}
+#**Results** {#results}
 
 **FDI Coefficients by Sector**  
 ![][image6]
 
 This chart displays the estimated effect of FDI inflows (% of GDP) on TFP growth by sector, along with 95% confidence intervals. Coefficients whose intervals do not cross zero are statistically significant.
 
-**Insights**
+#**Insights**
 
 * **Wood Products (β \= 7.78, *p* \= .02) and Textiles (β \= 4.37, *p* \= .02) had statistically significant positive coefficients.** This means productivity growth in these sectors increased by 7.78% and 4.37% for Wood Products and Textiles respectively for every 1% increase in FDI as % of GDP.  
 * Both sectors are closely tied to the manufacturing ecosystem since they involve labor-intensive production and benefit from technology transfer, extensive use of capital, and access to export markets.  
@@ -189,7 +189,7 @@ This chart displays the estimated effect of FDI inflows (% of GDP) on TFP growth
 * In the case of Chemical Products, where TFP growth was among the highest on average (see earlier figure), the negative FDI coefficient further supports its role as a placebo in that productivity gains were likely driven by internal or domestic factors, not FDI.  
 * **For all other sectors, including Manufacturing, the confidence intervals crossed zero. This means no statistically significant link between FDI inflows and productivity growth can be inferred based on this model.**
 
-# **Recommendations** {#recommendations}
+#**Recommendations** {#recommendations}
 
 Based on the insights and findings above, we recommend that the Ministry of Commerce and Industry and supporting government institutes consider the following:
 
@@ -199,7 +199,7 @@ Based on the insights and findings above, we recommend that the Ministry of Comm
 * The chemical sector, used as a placebo, had high average productivity growth but a significant negative FDI coefficient, meaning that there was internal factors driving productivity. The Ministry of Chemicals and Fertilizers should **identify successful domestic factors in the chemical sector (e.g., R\&D intensity, worker skill formation) such that these strategies be adapted and replicated in other sectors with limited foreign exposure and low productivity.**   
 * Several sectors such as Education and Food & Beverages showed minimal productivity gains and little variation over time. The NITI Aayog and relevant sectoral ministries should consider long-term reforms to **encourage innovation and private sector investment in these stagnant industries and improve workforce skills.**
 
-# **Limitations** {#limitations}
+#**Limitations** {#limitations}
 
 While the analysis provides meaningful insights, several limitations should be noted:
 

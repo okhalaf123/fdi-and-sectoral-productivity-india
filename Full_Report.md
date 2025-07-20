@@ -1,12 +1,12 @@
 # **Foreign Direct Investment and Sector-Level Productivity in India (1990-2020)**
 
-# Omar Khalaf
+## Omar Khalaf
 
-# Spring 2024
+## Spring 2024
 
-# [omar@khalaf.us](mailto:omar@khalaf.us)
+## [omar@khalaf.us](mailto:omar@khalaf.us)
 
-# [github.com/okhalaf123](http://github.com/okhalaf123)
+## [github.com/okhalaf123](http://github.com/okhalaf123)
 
 # 
 

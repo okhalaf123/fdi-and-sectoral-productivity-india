@@ -172,7 +172,7 @@ This matrix shows pairwise Pearson correlation coefficients between the independ
 * **FDI inflows (% of GDP) is weakly correlated with all other variables (all ρ \<= 0.24), supporting its use as a distinct predictor.**  
 * Government spending, CPI and crop production growth have weak or no correlation with other variables.
 
-#**Results** {#results}
+#**Results**
 
 **FDI Coefficients by Sector**  
 ![][image6]

@@ -63,7 +63,8 @@ Merged time-series data across sources using the year dimension. Special care wa
 
 **2\.** **Growth Accounting**:  
 Applied the Solow residual method to derive TFP using labor share, capital, and labor inputs.  
-![][image1]
+
+<img width="512" height="82" alt="Screenshot 2025-07-23 at 1 02 37 PM" src="https://github.com/user-attachments/assets/cce74f62-f207-49b5-9b83-7d0f443bba37" />
 
 **3\. Regression Dataset Construction**:  
 Calculated year-over-year percentage changes for macroeconomic variables (e.g., exports, imports, capital formation) to capture short-run economic movements. Aligned TFP growth in the manufacturing sector as the dependent variable.

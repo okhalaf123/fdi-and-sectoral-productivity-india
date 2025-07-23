@@ -101,7 +101,7 @@ India’s FDI inflows increased significantly after the early 2000s, but product
 
 # **Key Visualizations**
 
-##**Core Visualizations (Motivating the Analysis)**
+## **Core Visualizations (Motivating the Analysis)**
 
 **1\. Growth Accounting in India (1990-2020)**
 
@@ -172,7 +172,7 @@ This matrix shows pairwise Pearson correlation coefficients between the independ
 * **FDI inflows (% of GDP) is weakly correlated with all other variables (all ρ \<= 0.24), supporting its use as a distinct predictor.**  
 * Government spending, CPI and crop production growth have weak or no correlation with other variables.
 
-#**Results**
+# **Results**
 
 **FDI Coefficients by Sector**  
 ![][image6]

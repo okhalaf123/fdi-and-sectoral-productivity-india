@@ -95,11 +95,11 @@ Conducted using Ordinary Least Squares (OLS) method.  Based on Equation (8) from
 
 * Provides a benchmark for differential effects of FDI on TFP between manufacturing and a sector with lower FDI exposure (Bhardwaj, 2023).
 
-# **Overview of Findings** {#overview-of-findings}
+# **Overview of Findings**
 
 India’s FDI inflows increased significantly after the early 2000s, but productivity gains were uneven across sectors. While manufacturing as a whole did not show statistically significant improvements, industries like Textiles and Wood Products showed significant positive effects with FDI, indicating that the NMCC benefited adjacent sectors more directly. These patterns point to the importance of not only selecting target sectors for investment but also considering how industries are linked and positioned to absorb foreign capital effectively.
 
-# **Key Visualizations** {#key-visualizations}
+# **Key Visualizations**
 
 ##**Core Visualizations (Motivating the Analysis)**
 
@@ -126,7 +126,7 @@ This chart compares the 5-year moving average of total factor productivity (TFP)
 * In contrast, **TFP growth in the chemicals sector remains relatively flat or inconsistent, despite the increase in FDI**. This sector’s trend does not appear to mirror inflow patterns.  
 * **Chemicals historically attracted lower levels of FDI**, which makes its weak alignment with national FDI a useful benchmark in later regression analysis.
 
-## **Exploratory Insights (Supporting Evidence)** {#exploratory-insights-(supporting-evidence)}
+## **Exploratory Insights (Supporting Evidence)**
 
 **3\. Distribution of FDI Inflows (% of GDP)**  
 **![][image2]**  
@@ -189,7 +189,7 @@ This chart displays the estimated effect of FDI inflows (% of GDP) on TFP growth
 * In the case of Chemical Products, where TFP growth was among the highest on average (see earlier figure), the negative FDI coefficient further supports its role as a placebo in that productivity gains were likely driven by internal or domestic factors, not FDI.  
 * **For all other sectors, including Manufacturing, the confidence intervals crossed zero. This means no statistically significant link between FDI inflows and productivity growth can be inferred based on this model.**
 
-# **Recommendations** {#recommendations}
+# **Recommendations**
 
 Based on the insights and findings above, we recommend that the Ministry of Commerce and Industry and supporting government institutes consider the following:
 
@@ -199,7 +199,7 @@ Based on the insights and findings above, we recommend that the Ministry of Comm
 * The chemical sector, used as a placebo, had high average productivity growth but a significant negative FDI coefficient, meaning that there was internal factors driving productivity. The Ministry of Chemicals and Fertilizers should **identify successful domestic factors in the chemical sector (e.g., R\&D intensity, worker skill formation) such that these strategies be adapted and replicated in other sectors with limited foreign exposure and low productivity.**   
 * Several sectors such as Education and Food & Beverages showed minimal productivity gains and little variation over time. The NITI Aayog and relevant sectoral ministries should consider long-term reforms to **encourage innovation and private sector investment in these stagnant industries and improve workforce skills.**
 
-# **Limitations** {#limitations}
+# **Limitations**
 
 While the analysis provides meaningful insights, several limitations should be noted:
 

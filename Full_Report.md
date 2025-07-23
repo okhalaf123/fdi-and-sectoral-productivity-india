@@ -41,12 +41,12 @@ The analysis was built entirely in R, using a mix of tidyverse and base function
 
 **Key tools included:**
 
-* dplyr and tidyr for data wrangling  
-* readxl to load Excel-based macroeconomic and sector datasets  
-* zoo for computing moving averages  
-* ggplot2 for time series visualizations and comparative plots  
-* car for calculating variance inflation factors (VIFs) in multicollinearity checks  
-* Base R functions for linear regression and basic diagnostics
+* `dplyr` and `tidyr` for data wrangling  
+* `readxl` to load Excel-based macroeconomic and sector datasets  
+* `zoo` for computing moving averages  
+* `ggplot2` for time series visualizations and comparative plots  
+* `car` for calculating variance inflation factors (VIFs) in multicollinearity checks  
+* `Base R` functions for linear regression and basic diagnostics
 
 The code is modular and split across scripts by function: importing, data cleaning, regression setup, exploratory analysis, modeling, plotting, and diagnostic testing.
 

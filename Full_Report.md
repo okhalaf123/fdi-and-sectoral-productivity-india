@@ -14,9 +14,9 @@
 
 [**Key Visualizations**](#key-visualizations)
 
-[**Core Visualizations (Motivating the Analysis)**](#core-visualizations-\(motivating-the-analysis\))
+[**Core Visualizations (Motivating the Analysis)**](##core-visualizations-\(motivating-the-analysis\))
 
-[**Exploratory Insights (Supporting Evidence)**](#exploratory-insights-\(supporting-evidence\))
+[**Exploratory Insights (Supporting Evidence)**](##exploratory-insights-\(supporting-evidence\))
 
 [**Results**](#results)
 

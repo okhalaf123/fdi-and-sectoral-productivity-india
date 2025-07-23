@@ -101,7 +101,7 @@ India’s FDI inflows increased significantly after the early 2000s, but product
 
 **1\. Growth Accounting in India (1990-2020)**
 
-<img width="1620" height="1156" alt="1  Growth Accounting" src="https://github.com/user-attachments/assets/cba30728-25c8-4e72-964a-ebe3c90c19b0" />
+<img width="1615" height="1101" alt="1  Growth Accounting" src="https://github.com/user-attachments/assets/a4b4844a-f81f-4683-b9b0-cb5d74c83c70" />
 
 This chart shows the contributions of capital, labor, and productivity to India’s output growth from 1990 to 2020, with all values normalized to zero in the base year to enable relative comparison.
 
@@ -115,6 +115,8 @@ This chart shows the contributions of capital, labor, and productivity to India�
 
 **2\. 5-Year Moving Average of TFP Growth and FDI Net Inflows**
 
+<img width="1611" height="1107" alt="2  5-Year Moving Average of TFP Growth and FDI Net Inflows" src="https://github.com/user-attachments/assets/e37b16e8-f386-4eff-85c0-9d1cf24f86d4" />
+
 This chart compares the 5-year moving average of total factor productivity (TFP) growth in India’s manufacturing and chemical sectors with the 5-year moving average of FDI net inflows as a percentage of GDP from 1990 to 2020\.
 
 **Insights**
@@ -127,8 +129,10 @@ This chart compares the 5-year moving average of total factor productivity (TFP)
 ## **Exploratory Insights (Supporting Evidence)**
 
 **3\. Distribution of FDI Inflows (% of GDP)**  
-**![][image2]**  
-This histogram shows the distribution of India’s FDI net inflows as a percentage of GDP over the years included in the analysis.
+
+<img width="1610" height="1138" alt="3  Distribution of FDI Inflows (% of GDP)" src="https://github.com/user-attachments/assets/1a4ef38f-95d3-4497-afd7-bed298101e49" />
+
+This boxplot shows the distribution of India’s FDI net inflows as a percentage of GDP over the years included in the analysis.
 
 **Insights:**
 
@@ -139,7 +143,9 @@ This histogram shows the distribution of India’s FDI net inflows as a percenta
 * **This skew means that observed relationships between FDI and productivity growth will be influenced by a small number of peak years**, so any correlations should be interpreted with caution.
 
 **4\. Average TFP Growth by Sector**  
-**![][image3]**  
+
+<img width="1620" height="1106" alt="4  Average TFP Growth by Sector" src="https://github.com/user-attachments/assets/2d3f5245-764b-4350-a457-acfdb74a4179" />
+  
 This bar chart displays the average total factor productivity (TFP) growth by sector in India from 1990 to 2020\. Each black dot marks the mean TFP growth for a sector, while the horizontal error bars represent the standard deviation
 
 **Insights:**
@@ -149,7 +155,9 @@ This bar chart displays the average total factor productivity (TFP) growth by se
 * **Several sectors showed little to no productivity gains over the 30-year period.** Sectors such as Education, Construction, and Food and Beverages hovered around zero average TFP growth. These industries tend to be more labor-intensive and less exposed to foreign competition or technology spillovers, which may limit incentives or capacity for productivity improvement.
 
 **5\. Correlation Between FDI Inflows and Sector-Level TFP Growth**  
-**![][image4]**  
+
+<img width="1620" height="1109" alt="5  Correlation Between FDI Inflows and Sector-Level TFP Growth" src="https://github.com/user-attachments/assets/03358a98-de91-4d35-94ea-e71aa23d5ff4" />
+ 
 This bar chart displays the Pearson correlation coefficients between annual FDI inflows (as a percentage of GDP) and sector-level total factor productivity (TFP) growth from 1990 to 2020 across 27 Indian industries. Higher coefficients suggest a stronger co-movement between FDI inflows and sector productivity.
 
 **Insights**
@@ -159,7 +167,9 @@ This bar chart displays the Pearson correlation coefficients between annual FDI 
 * **Manufacturing shows a weak positive correlation (0.1) with FDI inflows.** While not among the strongest, this still reflects some alignment with national investment trends.
 
 **6\. Correlation Matrix of Regression Variables**  
-![][image5]  
+
+<img width="1620" height="1017" alt="6  Correlation Matrix of Regression Variables" src="https://github.com/user-attachments/assets/6bca7a64-ea1d-4a7a-9c3f-d0dc4512e863" />
+
 This matrix shows pairwise Pearson correlation coefficients between the independent variables used in the regression analysis. Circle size and color indicate the strength and direction of correlations, ranging from \-1 (perfect negative) to \+1 (perfect positive).
 
 **Insights**
@@ -173,7 +183,9 @@ This matrix shows pairwise Pearson correlation coefficients between the independ
 # **Results**
 
 **FDI Coefficients by Sector**  
-![][image6]
+
+<img width="1726" height="1165" alt="7  Confidence Intervals" src="https://github.com/user-attachments/assets/f9ccb4df-b770-4ea7-b015-fff5116bdff6" />
+
 
 This chart displays the estimated effect of FDI inflows (% of GDP) on TFP growth by sector, along with 95% confidence intervals. Coefficients whose intervals do not cross zero are statistically significant.
 

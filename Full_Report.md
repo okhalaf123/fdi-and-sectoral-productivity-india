@@ -101,7 +101,7 @@ India’s FDI inflows increased significantly after the early 2000s, but product
 
 **1\. Growth Accounting in India (1990-2020)**
 
-![screenshot](visualizations/Growth-Accounting.png)
+![screenshot](visualizations/Growth Accounting.png)
 
 This chart shows the contributions of capital, labor, and productivity to India’s output growth from 1990 to 2020, with all values normalized to zero in the base year to enable relative comparison.
 
